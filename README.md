@@ -1,6 +1,6 @@
 # Circle Node Apex Image
 
-Docker image extending [CircleCI Node Image](https://hub.docker.com/r/circleci/node/) and installing [Apex](http://apex.run).
+[Docker image](https://hub.docker.com/r/nem035/circle-node-apex) extending [CircleCI Node Image](https://hub.docker.com/r/circleci/node/) and installing [Apex](http://apex.run).
 
 
 - Building an image
